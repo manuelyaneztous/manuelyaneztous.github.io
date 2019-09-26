@@ -1,13 +1,16 @@
 {
-  "main.css": "/manuelyaneztous.github.io/static/css/main.b8f799fe.chunk.css",
-  "main.js": "/manuelyaneztous.github.io/static/js/main.707de39e.chunk.js",
-  "main.js.map": "/manuelyaneztous.github.io/static/js/main.707de39e.chunk.js.map",
-  "runtime~main.js": "/manuelyaneztous.github.io/static/js/runtime~main.f92dc4f6.js",
-  "runtime~main.js.map": "/manuelyaneztous.github.io/static/js/runtime~main.f92dc4f6.js.map",
-  "static/js/2.5ec21d73.chunk.js": "/manuelyaneztous.github.io/static/js/2.5ec21d73.chunk.js",
-  "static/js/2.5ec21d73.chunk.js.map": "/manuelyaneztous.github.io/static/js/2.5ec21d73.chunk.js.map",
-  "index.html": "/manuelyaneztous.github.io/index.html",
-  "precache-manifest.37bba38de72447d9976736e44643e7aa.js": "/manuelyaneztous.github.io/precache-manifest.37bba38de72447d9976736e44643e7aa.js",
-  "service-worker.js": "/manuelyaneztous.github.io/service-worker.js",
-  "static/css/main.b8f799fe.chunk.css.map": "/manuelyaneztous.github.io/static/css/main.b8f799fe.chunk.css.map"
+  "files": {
+    "main.css": "/manuelyaneztous.github.io/static/css/main.b100e6da.chunk.css",
+    "main.js": "/manuelyaneztous.github.io/static/js/main.cb7cafe0.chunk.js",
+    "main.js.map": "/manuelyaneztous.github.io/static/js/main.cb7cafe0.chunk.js.map",
+    "runtime-main.js": "/manuelyaneztous.github.io/static/js/runtime-main.77f838b6.js",
+    "runtime-main.js.map": "/manuelyaneztous.github.io/static/js/runtime-main.77f838b6.js.map",
+    "static/js/2.3a3eacc4.chunk.js": "/manuelyaneztous.github.io/static/js/2.3a3eacc4.chunk.js",
+    "static/js/2.3a3eacc4.chunk.js.map": "/manuelyaneztous.github.io/static/js/2.3a3eacc4.chunk.js.map",
+    "index.html": "/manuelyaneztous.github.io/index.html",
+    "precache-manifest.f1c79ed7b488f6eac15c5ed1781d9cd0.js": "/manuelyaneztous.github.io/precache-manifest.f1c79ed7b488f6eac15c5ed1781d9cd0.js",
+    "service-worker.js": "/manuelyaneztous.github.io/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/manuelyaneztous.github.io/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/manuelyaneztous.github.io/static/media/logo.25bf045c.svg"
+  }
 }
