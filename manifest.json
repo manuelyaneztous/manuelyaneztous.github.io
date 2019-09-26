@@ -1,7 +1,7 @@
 {
   "short_name": "Portfolio app",
   "name": "Portfolio app made with react as part of 'weekend projects' initiative",
-  "homepage": "https://manuelyaneztous.github.io/manuelyaneztous",  
+  "homepage": "https://manuelyaneztous.github.io/manuelyaneztous.github.io",  
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
@@ -22,7 +22,7 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
+  ]
   "icons": [
     {
       "src": "favicon.ico",
